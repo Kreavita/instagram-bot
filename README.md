@@ -25,7 +25,7 @@ these are mostly unfinished (see `instascraper.py`), cause i'm not sure if its a
 
 ## 4. Admin Commands:
 these commands can only be used by the people marked as admins in the config.py.
-- **!addmod, !addm \<Name\> / !delmod, !delm \<Name\>:** deletes or removes Moderators from the Mod List.
+- **!addmod, !addm \<Name\> / !delmod, !delm \<Name\>:** add and remove Moderators from the Mod List.
 
 ## 5. Installation:
 Instructions and Requirements to run your own bot:
