@@ -12,7 +12,7 @@ The interface language is mostly german.
 - **!help, !h, !hilfe:** shows a command list and description
 - **!wiki, !w \<Word\>:** get information on a topic quickly from wikipedia
 - **!calc, !math, !m \<Term\>:** a little calculator on the go, that can compute a whole term with brackets (), roots r(), powers ()^() and even some trigonometrial functions sin(), cos(), tan()
-- **!translate, !trans, !t \<Language\> \<Text\> or just \<Text\>:**: use google translate to translate within: fr (french), de (german), en (english), kr (korean), ja (japanese), fi (finnish), la (latin)
+- **!translate, !trans, !t \<Language\> \<Text\> or just \<Text\>:** use google translate to translate within: fr (french), de (german), en (english), kr (korean), ja (japanese), fi (finnish), la (latin)
 - **!lyrics, !l \<Word\>:** Get a songtext quickly from Genius
 - **!anime, !a \<Anime\>:** Well, you guessed it - get the synopsis of an Anime from MyAnimeList
 - **!vorschlag, !v: \<Text\>** send feedback and improvements, will be saved in a specific log file
