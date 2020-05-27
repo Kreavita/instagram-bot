@@ -29,6 +29,6 @@ these commands can only be used by the people marked as admins in the config.py.
 
 ## 5. Installation:
 Instructions and Requirements to run your own bot:
-- Python 3
+- Python 3 + Pip packages wikipedia googletrans emoji requests lyricsgenius
 - Selenium, a Selenium compatible browser (FF or Chrome) and geckodriver(.exe) or chromedriver(.exe) in the `driver/` folder
 - Set up the config.py
