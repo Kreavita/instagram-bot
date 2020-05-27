@@ -5,8 +5,8 @@ The interface language is mostly german.
 ## 1. Features:
 - A list of useful commands
 - download public / visible Posts by sending them via dm
-- Will code it eventually (or not): !stats: See in depth stats of a public account (WIP: `instascraper.py`)
-- Will code it eventually (or not): Leave some nice comments from the vocabulary list under Posts of user in the spam list
+- *Will code it eventually (or not)*: !stats: See in depth stats of a public account (WIP: `instascraper.py`)
+- *Will code it eventually (or not)*: Leave some nice comments from the vocabulary list under Posts of user in the spam list
 
 ## 2. Public Commands:
 - **!help, !h, !hilfe:** shows a command list and description
@@ -26,3 +26,9 @@ these are mostly unfinished (see `instascraper.py`), cause i'm not sure if its a
 ## 4. Admin Commands:
 these commands can only be used by the people marked as admins in the config.py.
 - **!addmod, !addm \<Name\> / !delmod, !delm \<Name\>:** deletes or removes Moderators from the Mod List.
+
+## 5. Installation:
+Instructions and Requirements to run your own bot:
+- Python 3
+- Selenium, a Selenium compatible browser (FF or Chrome) and geckodriver(.exe) or chromedriver(.exe) in the `driver/` folder
+- Set up the config.py
